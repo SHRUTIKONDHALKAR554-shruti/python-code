@@ -1,6 +1,6 @@
 # python-code
 In this repository contains python programs from practice.
-#language
+# #language
 python
-#tool used 
+# #tool used 
 python in visual studio 
