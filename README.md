@@ -1,9 +1,9 @@
 # python-code
 In this repository contains python programs from practice.
-# #language
+# # Language
 python
-# #tool used 
+# # Tool used 
 python 
 visual studio 
-# #Author
+# # Author
 Shruti 
