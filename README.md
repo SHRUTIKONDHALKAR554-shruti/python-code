@@ -1,9 +1,9 @@
 # Python-code
 In this repository, have included python programs from practice.
-# # Language
+ # Language
 -Python
-# # Tools
+# Tools
 -python
 -visual studio 
-# # Author
+ # Author
 -Shruti
