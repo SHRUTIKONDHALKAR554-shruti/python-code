@@ -3,6 +3,7 @@ In this repository contains python programs from practice.
 # #language
 python
 # #tool used 
-python in visual studio 
+python 
+visual studio 
 # #Author
 Shruti 
