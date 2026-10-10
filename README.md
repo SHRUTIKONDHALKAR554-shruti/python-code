@@ -4,3 +4,5 @@ In this repository contains python programs from practice.
 python
 # #tool used 
 python in visual studio 
+# #Author
+Shruti 
