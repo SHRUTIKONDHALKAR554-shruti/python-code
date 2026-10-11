@@ -1,5 +1,5 @@
 # Python-code
-In this repository, have included python programs from practice.
+In this repository, have included python assignment programs from practice.
  # Language
 Python
 # Tools
